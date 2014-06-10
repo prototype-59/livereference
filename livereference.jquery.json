@@ -1,8 +1,8 @@
 {
   "name": "livereference",
   "title": "in-text citation tool",
-  "version": "0.0.1",
-  "description": "jQuery/PHP based referencing tool for online documents.",
+  "version": "0.0.2",
+  "description": "jQuery/PHP based in-text citation tool for online documents.",
   "homepage": "http://www.livereference.org/livereference",
   "demo": "http://www.livereference.org/livereference/examples",
   "docs":"http://www.livereference.org/livereference",
