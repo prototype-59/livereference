@@ -1,0 +1,40 @@
+{
+  "name": "livereference",
+  "title": "in-text citation tool",
+  "version": "0.0.1",
+  "description": "jQuery/PHP based referencing tool for online documents.",
+  "homepage": "http://www.livereference.org/livereference",
+  "demo": "http://www.livereference.org/livereference/examples",
+  "docs":"http://www.livereference.org/livereference",
+  "bugs":"https://github.com/prototype-59/livereference/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prototype-59/livereference.git"
+  },
+  "keywords": [
+    "jQuery",
+    "livereference",
+    "reference",
+    "in-text",
+    "citation"
+  ],
+  "author": {
+    "name": "Aleksandar Radovanovic",
+    "email": "admin@radovanovic.com",
+    "url":"http://aleksandar.ws"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/prototype-59/livereference/blob/master/LICENSE"
+    }
+  ],
+"files": [
+        "livereference.jquery.js",
+        "livereference.css"
+    ],
+  "dependencies": {
+    "jquery": ">=1.7",
+    "x3dom": ">=1.6"
+  }
+}

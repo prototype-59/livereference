@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+<records>
+<record>
+<database name="Lidis.enl" path="/Volumes/Research/Lidis.enl">Lidis.enl</database>
+<source-app name="EndNote" version="13.0">EndNote</source-app>
+<rec-number>15450156</rec-number>
+<foreign-keys><key app="EN" db-id="fexa20f5rrda09e99avpessydaf509592tzt">15450156</key></foreign-keys>
+<ref-type name="Journal Article">17</ref-type>
+<contributors>
+	<authors>
+		<author><style face="normal" font="default" size="100%">Malenka, R. C.</style></author>
+		<author><style face="normal" font="default" size="100%">Bear, M. F.</style></author>
+	</authors>
+</contributors>
+<auth-address><style face="normal" font="default" size="100%">Nancy Pritzker Laboratory, Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Palo Alto, CA 94304, USA. malenka@stanford.edu</style></auth-address>
+<titles>
+	<title><style face="normal" font="default" size="100%">LTP and LTD: an embarrassment of riches</style></title>
+	<secondary-title><style face="normal" font="default" size="100%">Neuron</style></secondary-title>
+</titles>
+<pages><style face="normal" font="default" size="100%">5-21</style></pages>
+<volume><style face="normal" font="default" size="100%">44</style></volume>
+<number><style face="normal" font="default" size="100%">1</style></number>
+<edition><style face="normal" font="default" size="100%">2004/09/29</style></edition>
+<keywords><keyword><style face="normal" font="default" size="100%">Animals</style></keyword><keyword><style face="normal" font="default" size="100%">Brain/physiology</style></keyword><keyword><style face="normal" font="default" size="100%">Humans</style></keyword><keyword><style face="normal" font="default" size="100%">Long-Term Potentiation/*physiology</style></keyword><keyword><style face="normal" font="default" size="100%">Long-Term Synaptic Depression/*physiology</style></keyword><keyword><style face="normal" font="default" size="100%">Neuronal Plasticity/*physiology</style></keyword></keywords>
+<dates>
+	<year><style face="normal" font="default" size="100%">2004</style></year>
+	<pub-dates>
+		<date><style face="normal" font="default" size="100%">Sep 30</style></date>
+	</pub-dates>
+</dates>
+<isbn><style face="normal" font="default" size="100%">0896-6273 (Print)&#xD;0896-6273 (Linking)</style></isbn>
+<accession-num><style face="normal" font="default" size="100%">15450156</style></accession-num>
+<abstract><style face="normal" font="default" size="100%">LTP and LTD, the long-term potentiation and depression of excitatory synaptic transmission, are widespread phenomena expressed at possibly every excitatory synapse in the mammalian brain. It is now clear that &quot;LTP&quot; and &quot;LTD&quot; are not unitary phenomena. Their mechanisms vary depending on the synapses and circuits in which they operate. Here we review those forms of LTP and LTD for which mechanisms have been most firmly established. Examples are provided that show how these mechanisms can contribute to experience-dependent modifications of brain function.</style></abstract>
+<notes><style face="normal" font="default" size="100%">Malenka, Robert C&#xD;Bear, Mark F&#xD;Research Support, Non-U.S. Gov&apos;t&#xD;Research Support, U.S. Gov&apos;t, P.H.S.&#xD;Review&#xD;United States&#xD;Neuron&#xD;Neuron. 2004 Sep 30;44(1):5-21.</style></notes>
+<urls-x>
+<related-urls>
+		<url><style face="normal" font="default" size="100%">http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Citation&amp;list_uids=15450156</style></url>
+</related-urls>
+</urls-x>
+<electronic-resource-num><style face="normal" font="default" size="100%">10.1016/j.neuron.2004.09.012&#xD;S0896627304006087 [pii]</style></electronic-resource-num>
+<language><style face="normal" font="default" size="100%">eng</style></language>
+</record>
+</records>
+</xml>

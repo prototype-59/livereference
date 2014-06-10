@@ -1,0 +1,39 @@
+
+.livereference {			/* --- reference display box -- */
+	position: absolute;
+	display: none;
+	z-index: 90000;
+	border:1px solid #444;
+	background:#eeeeee;
+	margin:0;
+	padding:6px 12px;	
+	border-radius: 6px 6px 6px 0;
+	box-shadow: 2px 2px 5px #111;	
+	color:black;
+	font-family: 'Gill Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, Arial, sans-serif; 
+	font-size: 14px; 
+}
+
+/* --- reference link -- */
+.liverefLinkClass {		
+	cursor:pointer;
+	background: #FEF6E4;
+}
+
+/* --- publication details style -- */
+.lrRef { 
+	font: 14px/1  Palatino, 'Book Antiqua', Georgia, Garamond, 'Times New Roman', Times, serif;
+	max-width: 500px; 
+}
+.lrRefBlock				{ display: block; }
+.lrRefNormal			{ font-size: 1em; }
+.lrRefBigger			{font-size: 1.2em; }
+.lrRefItalic			{ font-style: italic;}
+.lrRefVSpacer			{ font-size: .5em; }
+.lrRefClear				{ clear: both; }
+.liverefURL  {
+	font-size: .8em;
+	margin-top: 1em;
+	float:right;
+}
+
