@@ -20,7 +20,7 @@ Publication can be referenced by ISBN or PMID id or local TSV or EndNote file. R
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <link rel="stylesheet" media="screen" href="css/livereference.css" />
-<script type="text/javascript" src="js/livereference.js"></script>
+<script type="text/javascript" src="js/livereference.jquery.js"></script>
 
 <script language="javascript">
 $(document).ready(function() {
